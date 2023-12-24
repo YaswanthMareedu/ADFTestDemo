@@ -12,6 +12,12 @@
 				}
 			}
 		],
+		"variables": {
+			"yaswanth": {
+				"type": "String",
+				"defaultValue": "yaswanth"
+			}
+		},
 		"annotations": []
 	}
 }
