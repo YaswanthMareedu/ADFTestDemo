@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFtestDemoGit"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://gen2multiverse.dfs.core.windows.net/"
 		}
 	}
 }
